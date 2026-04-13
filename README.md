@@ -1,4 +1,4 @@
-👋 Hi, I’m Sogunle Olabanji Alfred
+👋 Hi, I’m **Alfred**
 
 I’m a backend developer focused on building reliable, scalable systems.
 My journey started with curiosity, but it quickly turned into a discipline. I like understanding how things work under the hood and building solutions that actually hold up in real-world use.
